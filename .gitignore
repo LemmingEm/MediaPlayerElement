@@ -1,0 +1,10 @@
+# Build folders
+**/bin/
+**/obj/
+
+# Visual Studio folders
+**/.vs/
+
+# Visual Studio files
+*.vcxproj.user
+*.csproj.user

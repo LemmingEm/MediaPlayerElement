@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaPlayerElement", "MediaPlayerElement\MediaPlayerElement.csproj", "{0540DD66-4DC0-4D4C-9065-9BDE06E5CFB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0540DD66-4DC0-4D4C-9065-9BDE06E5CFB5}.Debug|x64.ActiveCfg = Debug|x64
+		{0540DD66-4DC0-4D4C-9065-9BDE06E5CFB5}.Debug|x64.Build.0 = Debug|x64
+		{0540DD66-4DC0-4D4C-9065-9BDE06E5CFB5}.Debug|x64.Deploy.0 = Debug|x64
+		{0540DD66-4DC0-4D4C-9065-9BDE06E5CFB5}.Release|x64.ActiveCfg = Release|x64
+		{0540DD66-4DC0-4D4C-9065-9BDE06E5CFB5}.Release|x64.Build.0 = Release|x64
+		{0540DD66-4DC0-4D4C-9065-9BDE06E5CFB5}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0A5C831-89AB-4E07-AAC2-07A7F4C2E542}
+	EndGlobalSection
+EndGlobal

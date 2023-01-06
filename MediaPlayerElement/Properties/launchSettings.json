@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "MediaPlayerElement (Package)": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": true
+    },
+    "MediaPlayerElement (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
